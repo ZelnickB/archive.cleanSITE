@@ -17,4 +17,7 @@ CleanSite allows these ads to be removed for all viewers of the website as soon 
 * ***If possible***, paste the code into the **footer code** setting field of your webpage. *If you do not complete this step correctly, the code will not function. Code embedded in the body of a website will not function if the website editor has an option for footer code.* Technically speaking, the ad itself has to load before the JavaScript can get rid of it.
   
 ## Installation Code
-Code for installing the program will become available here when it is released.
+### Weebly Installation Code
+`<script src="https://zelnickb.github.io/cleanSITE/Scripts/Weebly.js"></script>`
+  
+**In order for the cleanSITE Weebly Version to function, the installation code must be inserted into the *footer code* of the entire website. On Weebly, this is under the *Settings > SEO* Menu.**
