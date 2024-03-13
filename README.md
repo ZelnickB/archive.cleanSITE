@@ -1,3 +1,10 @@
+> [!NOTE]  
+> This repository, originally located at `ZelnickB/cleanSITE`, is no longer actively maintained and has been archived. **The contents may contain bugs, security vulnerabilities, and other defects.**
+>
+> The terms of the [MIT License](LICENSE) continue to apply to the contents of this repository.
+
+----
+
 The worst part of using a website generator, such as *Weebly*, *Wordpress*, or *Google Sites* is that you have to pay to remove one of the ads placed at the bottom of your page.  
   
 ![Weebly Advertisement Image](https://image.ibb.co/gwO05S/image.png "An ad from the website generator Weebly that is placed at the bottom of free users' webpages")
